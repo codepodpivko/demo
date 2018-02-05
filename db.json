@@ -1,14 +1,23 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "DateFrom": 30,
+    "DateTill": 61,
+    "Employee": "Sahka",
+    "Id": 1,
+    "Type": "PayedVacation"
+  },
+  {
+    "DateFrom": 75,
+    "DateTill": 89,
+    "Employee": "Sahka",
+    "Id": 1,
+    "Type": "PayedVacation"
+  },
+  {
+    "DateFrom": 7,
+    "DateTill": 25,
+    "Employee": "Leshka",
+    "Id": 2,
+    "Type": "PayedVacation"
   }
-}
+]
