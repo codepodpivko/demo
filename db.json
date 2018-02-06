@@ -1,21 +1,21 @@
 [
   {
-    "DateFrom": 30,
-    "DateTill": 61,
+    "DateFrom": "/Date(1483218000000)/",
+    "DateTill": "/Date(1486760400000)/",
     "Employee": "Sahka",
     "Id": 1,
     "Type": "PayedVacation"
   },
   {
-    "DateFrom": 75,
-    "DateTill": 89,
+    "DateFrom": "/Date(1498510800000)/",
+    "DateTill": "/Date(1499720400000)/",
     "Employee": "Sahka",
     "Id": 1,
     "Type": "PayedVacation"
   },
   {
-    "DateFrom": 7,
-    "DateTill": 25,
+    "DateFrom": "/Date(1487451600000)/",
+    "DateTill": "/Date(1489179600000)/",
     "Employee": "Leshka",
     "Id": 2,
     "Type": "PayedVacation"
